@@ -18,7 +18,7 @@
             "styles_results": [],
             "coverages_results": [],
             "skip_tests": true,
-            "stars": 307
+            "stars": 428
         },
         "4": {
             "alternatives": null,
@@ -39,7 +39,7 @@
             "styles_results": [],
             "coverages_results": [],
             "skip_tests": true,
-            "stars": 125
+            "stars": 206
         },
         "5": {
             "alternatives": null,
@@ -57,7 +57,7 @@
             "url": "https://github.com/Qiskit/qiskit-metal",
             "tests_results": [],
             "skip_tests": true,
-            "stars": 198
+            "stars": 265
         },
         "6": {
             "alternatives": null,
@@ -78,7 +78,7 @@
             "styles_results": [],
             "coverages_results": [],
             "skip_tests": true,
-            "stars": 320
+            "stars": 568
         },
         "7": {
             "alternatives": null,
@@ -100,7 +100,7 @@
             "styles_results": [],
             "coverages_results": [],
             "skip_tests": true,
-            "stars": 163
+            "stars": 276
         },
         "8": {
             "alternatives": null,
@@ -121,7 +121,7 @@
             "styles_results": [],
             "coverages_results": [],
             "skip_tests": true,
-            "stars": 118
+            "stars": 208
         },
         "10": {
             "alternatives": null,
@@ -138,7 +138,7 @@
             "url": "https://github.com/Qiskit/qiskit-experiments",
             "tests_results": [],
             "skip_tests": true,
-            "stars": 83
+            "stars": 142
         },
         "11": {
             "alternatives": null,
@@ -155,7 +155,7 @@
             "url": "https://github.com/Qiskit/qiskit-dynamics",
             "tests_results": [],
             "skip_tests": true,
-            "stars": 45
+            "stars": 93
         },
         "12": {
             "name": "OpenQASM",
@@ -177,7 +177,7 @@
             "configuration": null,
             "skip_tests": true,
             "historical_test_results": [],
-            "stars": 869
+            "stars": 1137
         }
     },
     "Community": {
@@ -226,7 +226,7 @@
                 ]
             },
             "historical_test_results": [],
-            "stars": 117
+            "stars": 150
         },
         "3": {
             "name": "c3",
@@ -428,7 +428,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 46
+            "stars": 61
         },
         "4": {
             "name": "qiskit-superstaq",
@@ -565,7 +565,7 @@
                     "package_commit_hash": "6927a8d26bb58bf402b4e38f5563ed97a76a0fad"
                 }
             ],
-            "stars": 13
+            "stars": null
         },
         "5": {
             "name": "qtcodes",
@@ -771,7 +771,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 68
+            "stars": 86
         },
         "6": {
             "name": "kaleidoscope",
@@ -970,7 +970,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 13
+            "stars": 21
         },
         "7": {
             "name": "pytket-qiskit",
@@ -1252,7 +1252,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 51
+            "stars": 62
         },
         "9": {
             "name": "mitiq",
@@ -1431,7 +1431,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 217
+            "stars": 322
         },
         "10": {
             "name": "pennylane-qiskit",
@@ -1589,7 +1589,7 @@
                     "package_commit_hash": "6927a8d26bb58bf402b4e38f5563ed97a76a0fad"
                 }
             ],
-            "stars": 104
+            "stars": 168
         },
         "11": {
             "name": "quantumcat",
@@ -1717,7 +1717,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 17
+            "stars": 23
         },
         "12": {
             "name": "Blueqat",
@@ -1887,7 +1887,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 349
+            "stars": 364
         },
         "13": {
             "name": "python-open-controls",
@@ -2064,7 +2064,7 @@
                     "package_commit_hash": "6927a8d26bb58bf402b4e38f5563ed97a76a0fad"
                 }
             ],
-            "stars": 82
+            "stars": 97
         },
         "14": {
             "name": "qiskit-rigetti",
@@ -2261,7 +2261,7 @@
                     "package_commit_hash": null
                 }
             ],
-            "stars": 6
+            "stars": 9
         },
         "15": {
             "name": "QiskitBot",
@@ -2281,7 +2281,7 @@
             "coverages_results": [],
             "tier": "Community",
             "skip_tests": true,
-            "stars": 22
+            "stars": 24
         },
         "16": {
             "name": "pytorch-quantum",
@@ -2470,7 +2470,7 @@
                     "package_commit_hash": "6927a8d26bb58bf402b4e38f5563ed97a76a0fad"
                 }
             ],
-            "stars": 322
+            "stars": 1156
         },
         "17": {
             "name": "QPong",
@@ -2578,7 +2578,7 @@
                     "package_commit_hash": "6927a8d26bb58bf402b4e38f5563ed97a76a0fad"
                 }
             ],
-            "stars": 101
+            "stars": 117
         },
         "18": {
             "name": "q-kernel-ops",
@@ -2600,7 +2600,7 @@
             "configuration": null,
             "skip_tests": false,
             "historical_test_results": [],
-            "stars": 1
+            "stars": 3
         }
     },
     "Extensions": {
@@ -2673,7 +2673,7 @@
                 "coverages_check_command": []
             },
             "skip_tests": false,
-            "stars": 11,
+            "stars": 13,
             "historical_test_results": [
                 {
                     "test_type": "stable",
@@ -2795,7 +2795,7 @@
                 "coverages_check_command": []
             },
             "skip_tests": false,
-            "stars": 15,
+            "stars": 26,
             "historical_test_results": [
                 {
                     "test_type": "stable",
@@ -2923,7 +2923,7 @@
                 ],
                 "coverages_check_command": []
             },
-            "stars": 23,
+            "stars": 31,
             "historical_test_results": [
                 {
                     "test_type": "stable",
@@ -3016,7 +3016,7 @@
             },
             "tier": "Extensions",
             "skip_tests": true,
-            "stars": 21
+            "stars": 37
         },
         "5": {
             "name": "Quantum Random Access Optimization",
@@ -3088,7 +3088,7 @@
             },
             "tier": "Extensions",
             "skip_tests": false,
-            "stars": 21,
+            "stars": 27,
             "historical_test_results": [
                 {
                     "test_type": "stable",
@@ -3160,7 +3160,7 @@
             "coverages_results": [],
             "tier": "Extensions",
             "skip_tests": true,
-            "stars": 37
+            "stars": 121
         },
         "7": {
             "name": "qiskit-ionq",
@@ -3231,7 +3231,7 @@
                 "coverages_check_command": []
             },
             "skip_tests": false,
-            "stars": 25,
+            "stars": 40,
             "historical_test_results": [
                 {
                     "test_type": "standard",
@@ -3323,7 +3323,7 @@
                 "coverages_check_command": []
             },
             "skip_tests": true,
-            "stars": 27
+            "stars": 76
         },
         "9": {
             "name": "mthree",
@@ -3402,7 +3402,7 @@
                 "coverages_check_command": []
             },
             "skip_tests": false,
-            "stars": 14,
+            "stars": 33,
             "historical_test_results": [
                 {
                     "test_type": "stable",
